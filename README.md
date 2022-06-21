@@ -1,2 +1,2 @@
 alx
-#!/bin/bash
+git pull
